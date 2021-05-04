@@ -13,7 +13,7 @@ export default {
   name: '',
   props: {},
   components: {
-      uniBadge,
+    //   uniBadge,
   },
   data() {
     return {};
